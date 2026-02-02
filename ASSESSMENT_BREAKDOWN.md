@@ -2,17 +2,6 @@
 
 ## HD Requirements
 
-<!-- ### Presents ALL of the following to a THOROUGH level of detail
-
-- As part of the presentation, each group member must talk about their own:
-  - Skills used throughout the project
-  - Skills or experiences gained throughout the project
-  - At least one feature or piece of application functionality that that team member developed
-  - At least one problem or hurdle that that team member faced during the project & how it was
-    overcome
-  - At least one thing that that team member would do differently if given more time or a
-    chance to redo the project -->
-
 ### EXPLAINS the problem or scenario that a project is addressing to a professional level -Joss ඞ
 
 - Explains the purpose, goal, problem or scenario that a project is addressing
@@ -31,7 +20,9 @@
 
 ### EXPLAINS the process behind developing code to address a project’s needs - Ask Alex First
 
-- _Ask for an explanation before addressing this_
+- _Alex: "This is basically how you as a team decide how your code is written. Like if someone's writing code in one branch, are you all together in that one branch or in separate branches? Having specific code examples would be beneficial."_
+- _Alex: "Basically stuff like how you decide your git workflow, how you do your git branches and merges, and code examples could be before & after merging of code.if you have any automation workflows made to help with that sort of stuff, showing them would count as code examples too."_
+
 - Explains the development process for code that addresses a project’s needs in descriptive terms
   - Provides AT LEAST TWO specific code examples OR mentions of project needs.
 
@@ -77,7 +68,10 @@
 
 ### EXPLAINS usage of a version control workflow with reference to a group project - Nhi
 
-- _Alex: "Does not have to be GitHub Actions workflows specifically, it can be 'this is the process that we as a team have to work on branches in the repository', or how to approve pull requests or do mergers and such"_
+- _Alex: "Does not have to be GitHub Actions workflows specifically, it can be 'this is the process that we as a team have to work on branches in the repository', or how to approve pull requests or do mergers and such."_
+- _Alex: "You must explain how your team used Git together, with reference to the project. Don't talk about branching etc. without referring to the project. Talk about working in a group with git processes"_
+- _Alex: you can and should continue working on your project if it doesn't meet the requirements for the presentation. This is especially important for some of the teams who may not have worked on the project together before: if the project doesn't have a thing required to meet some part of the assessment, you should do that thing ASAP._
+
 - Explains the usage of a version control workflow within the group project
   - Provides specific reference to, OR an example of ALL of the following features:
     - _Ask Alex if we need to have these implemented, or if we can just show an example of what it would look like_
@@ -92,6 +86,7 @@
 
 ### EXPLAINS how group communication was handled with regards to a project’s version control workflow - Nhi
 
+- _Alex: How you and your team members figure out who is making what branch, how you communicate with each other about things like pull requests, stuff that is you talking to your teammates with regards to your git usage and processes and things like that."_
 - Explains communication processes
   - References AT LEAST FOUR situations or scenarios that occurred during a project
     - _Look at old trello board to find specific feature branch allocations_
@@ -136,6 +131,7 @@ sequenceDiagram
   - Problem solving processes
     - _Spend more initial time on project planning_
     - _Applying Agile practices to review scope of planned deliverables in our MVP and reassessing realistic features and delivery timeframes_
+  - At least one thing that that team member would do differently if given more time or a chance to redo the project
 
 """
 ⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠉⢁⣀⣀⣀⡈⠉⠛⢿⡿⠿⢿⣿⣿⣿
