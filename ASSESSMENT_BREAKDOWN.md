@@ -40,10 +40,9 @@
   - Very specific issue with friend request systems and friends lists not always showing the correct data
   - 4hr debug with eventual solution being one single ternary expression reshaping data that did not appear consistently in the front end
 - Jordan:
-  - "Premature optimization is the root of all evil". Getting caught up trying to figure out the perfect way to do things before implementing the simple way and getting lost in the details
-  - Implementing a 'continuous improvement' style approach where I would make a basic version to get working and then improve gradually afterwards.
+  - Done
 
-### IDENTIFIES & EXPLAINS skills used or grown during a project - All Three of Us
+### IDENTIFIES & EXPLAINS skills used AND grown during a project - All Three of Us
 
 - Identifies skills used during a project
   - Explains how skills were used
@@ -58,10 +57,9 @@
   - Testing in general!
   - Developed test suites for all of the functions in the backend which related to my entities, middleware and logic (can show any test suite)
 - Jordan:
-  - Axios and tanstack
-  - Looking at a bunch of tutorials, asking AI and just doing it (and failing a bunch)
+  - Done
 
-### PRESENTS a project’s result in a professional manner - Jordan
+### PRESENTS a project’s result in a professional manner - Jordan (Done)
 
 - Presents an application that was developed for the project
   - Application is COMPLETELY FINISHED and has NO issues or errors
