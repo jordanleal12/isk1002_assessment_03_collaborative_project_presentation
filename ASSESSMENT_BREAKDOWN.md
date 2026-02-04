@@ -29,9 +29,10 @@
 ### IDENTIFIES & EXPLAINS problems and solutions during the programming of a project - All Three of (among)Us
 
 - Identifies & explains AT LEAST THREE problems encountered during a relevant programming project
+  - _This constitutes three total, so one per team member_
   - Explains a solution for EACH of those problems.
 - At least ONE of these problems must be specific to each team member
-  - _It's unclear whether each team member has to contribute three problems individually of which one is their own, or each is to contribute at least one which totals three_
+
 - Nhi:
   - How the application architecture worked together/handles data (how to conceptually understand the application flow and how the components interact with each other).
   - Communication with team members on aspects they worked on to understand how their parts worked as part of the whole. Communicated through team stand-ups to identify blockers, review PRs, research/watch concept videos and discuss via call meetings.
