@@ -116,13 +116,10 @@ sequenceDiagram
 - Any difficulties encountered developing the project as a team
   - _Nhi: Struggling to contribute effectively because of getting caught up trying to implement a perfect version and falling behind schedule_
   - _Joss: More clear and defined allocation of team roles before commencing the front end. Not finding appropriate skill to task allocation for each member for front end_
-  - _Jordan: Feeling lost on direction of what part of the project to do next. Experiencing bottlenecks sometimes where the application was requiring a specific feature to proceed_
+  - _Jordan: Done_
 - Provides AT LEAST TWO improvements for EACH OF the following, that could be used for future development work:
   - Communication processes
-    - _Matching what we did with skill to task allocation in the backend, across all projects_
-    - _Early and effective communication when encountering programming issues or difficulties - "I don't understand how to..." at an earlier stage meaning more collaborative work could be completed_
-    - _Using a platform like Trello to manage tasks more effectively_
-    - _Consistently contribute to daily stand-ups to discuss blockers and update team on WIP_
+    - Done
   - Collaboration processes
     - _Have a specific project lead_
     - _More regular co-programming sessions to skill share earlier in the front end development_
