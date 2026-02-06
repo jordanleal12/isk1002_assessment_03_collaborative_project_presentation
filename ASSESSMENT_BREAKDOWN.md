@@ -18,7 +18,7 @@
   - Refers to target user information such as target market information OR user stories.
     - _Recycle user stories from planning project_
 
-### EXPLAINS the process behind developing code to address a project’s needs - Ask Alex First
+### EXPLAINS the process behind developing code to address a project’s needs - Needs to be assigned
 
 - _Alex: "This is basically how you as a team decide how your code is written. Like if someone's writing code in one branch, are you all together in that one branch or in separate branches? Having specific code examples would be beneficial."_
 - _Alex: "Basically stuff like how you decide your git workflow, how you do your git branches and merges, and code examples could be before & after merging of code.if you have any automation workflows made to help with that sort of stuff, showing them would count as code examples too."_
